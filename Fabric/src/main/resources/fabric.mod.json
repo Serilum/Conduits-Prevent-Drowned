@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "conduitspreventdrowned",
-  "version": "3.6",
+  "version": "3.7",
 
   "name": "Conduits Prevent Drowned",
   "description": "Disables drowned zombie spawns around the player when the conduit effect is active.",
@@ -23,7 +23,7 @@
     "fabric": "*",
     "minecraft": ">=1.20",
     "java": ">=21",
-    "collective": ">=7.55"
+    "collective": ">=7.60"
   },
 
   "custom": {
@@ -46,10 +46,9 @@
 	  " aternosorg",
 	  " BirdieMiner",
 	  " Cherriesaurus",
-	  " Jack",
 	  " Jeremy Langford",
 	  " Michael W. S.",
-	  " pepe1191",
+	  " Rare Students",
 	  " Shana Gitnick",
 	  " Tyler Behl"
   ]
