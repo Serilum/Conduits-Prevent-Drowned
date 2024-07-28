@@ -1,6 +1,7 @@
 package com.natamus.conduitspreventdrowned;
 
 import com.natamus.collective.check.RegisterMod;
+import com.natamus.collective.check.ShouldLoadCheck;
 import com.natamus.conduitspreventdrowned.forge.config.IntegrateForgeConfig;
 import com.natamus.conduitspreventdrowned.forge.events.ForgeDrownedEvent;
 import com.natamus.conduitspreventdrowned.util.Reference;
@@ -15,6 +16,10 @@ import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 public class ModForge {
 	
 	public ModForge() {
+		if (!ShouldLoadCheck.shouldLoad(Reference.MOD_ID)) {
+			return;
+		}
+
 		IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
 		modEventBus.addListener(this::loadComplete);
 
