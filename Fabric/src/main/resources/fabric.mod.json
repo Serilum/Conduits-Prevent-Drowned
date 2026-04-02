@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 1,
+  "id": "conduitspreventdrowned",
+  "version": "4.0",
+
+  "name": "Conduits Prevent Drowned",
+  "description": "Disables drowned zombie spawns around the player when the conduit effect is active.",
+  "authors": [ "Rick South" ],
+  "contact": {
+    "homepage": "https://serilum.com/mod/conduits-prevent-drowned",
+    "sources": "https://github.com/Serilum/Conduits-Prevent-Drowned",
+    "issues": "https://github.com/Serilum/.issue-tracker/labels/Mod:%20Conduits%20Prevent%20Drowned"
+  },
+
+  "license": "All Right Reserved",
+  "icon": "icon.png",
+
+  "environment": "*",
+  "entrypoints": { "main": [ "com.natamus.conduitspreventdrowned.ModFabric" ], "modmenu": [ "com.natamus.conduitspreventdrowned.fabric.config.IntegrateModMenu" ] },
+
+  "depends": {
+    "fabricloader": ">=0.18.0",
+    "fabric-api": "*",
+    "minecraft": ">=26.1",
+    "java": ">=25",
+    "collective": ">=8.16"
+  },
+
+  "custom": {
+    "modmenu": {
+      "links": {
+        "Donate <3" : "https://serilum.com/donate"
+      }
+    }
+  },
+
+  "contributors": [
+	  " ",
+	  "Thank you very much to my Membership sponsors for supporting the development of this mod!",
+	  " ",
+	  "If you would like to contribute too, check out https://serilum.com/donate.",
+	  " ",
+	  "Membership sponsors:",
+	  " akanealw",
+	  " Alister",
+	  " Andrean Olgo",
+	  " aternosorg",
+	  " Cherriesaurus",
+	  " MWS",
+	  " t128",
+	  " Tyler Behl",
+	  " XAgent",
+	  " ตัวตรึง พระนคร"
+  ]
+}
