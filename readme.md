@@ -1,5 +1,5 @@
 <h2>Conduits Prevent Drowned</h2>
-<p><a href="https://github.com/Serilum/Conduits-Prevent-Drowned"><img src="https://serilum.com/assets/images/logo/conduits-prevent-drowned.png"></a></p><h2>Download</h2>
+<p><a href="https://github.com/Serilum/Conduits-Prevent-Drowned"><img src="https://workflow.serilum.com/web/logo/128/conduits-prevent-drowned.png" width="100" height="100"></a></p><h2>Download</h2>
 <p>You can download Conduits Prevent Drowned on CurseForge and Modrinth:</p><p>&nbsp;&nbsp;CurseForge: &nbsp;&nbsp;<a href="https://curseforge.com/minecraft/mc-mods/conduits-prevent-drowned">https://curseforge.com/minecraft/mc-mods/conduits-prevent-drowned</a><br>&nbsp;&nbsp;Modrinth: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://modrinth.com/mod/conduits-prevent-drowned">https://modrinth.com/mod/conduits-prevent-drowned</a></p>
 <h2>Issue Tracker</h2>
 <p>To keep a better overview of all mods, the issue tracker is located in a separate repository.<br>&nbsp;&nbsp;For issues, ideas, suggestions or anything else, please follow this link:</p>
