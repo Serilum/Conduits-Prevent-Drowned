@@ -1,7 +1,7 @@
-package com.natamus.conduitspreventdrowned.neoforge.events;
+package com.serilum.conduitspreventdrowned.neoforge.events;
 
 import com.natamus.collective.functions.WorldFunctions;
-import com.natamus.conduitspreventdrowned.events.DrownedEvent;
+import com.serilum.conduitspreventdrowned.events.DrownedEvent;
 import net.minecraft.server.level.ServerLevel;
 import net.minecraft.world.level.Level;
 import net.neoforged.bus.api.SubscribeEvent;

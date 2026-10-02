@@ -1,7 +1,7 @@
-package com.natamus.conduitspreventdrowned.forge.config;
+package com.serilum.conduitspreventdrowned.forge.config;
 
 import com.natamus.collective.config.DuskConfig;
-import com.natamus.conduitspreventdrowned.util.Reference;
+import com.serilum.conduitspreventdrowned.util.Reference;
 import net.minecraftforge.client.ConfigScreenHandler;
 import net.minecraftforge.fml.ModLoadingContext;
 
