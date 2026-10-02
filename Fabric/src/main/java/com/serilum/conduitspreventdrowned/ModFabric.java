@@ -1,10 +1,10 @@
-package com.natamus.conduitspreventdrowned;
+package com.serilum.conduitspreventdrowned;
 
 import com.natamus.collective.check.RegisterMod;
 import com.natamus.collective.check.ShouldLoadCheck;
 import com.natamus.collective.fabric.callbacks.CollectiveSpawnEvents;
-import com.natamus.conduitspreventdrowned.events.DrownedEvent;
-import com.natamus.conduitspreventdrowned.util.Reference;
+import com.serilum.conduitspreventdrowned.events.DrownedEvent;
+import com.serilum.conduitspreventdrowned.util.Reference;
 import net.fabricmc.api.ModInitializer;
 import net.minecraft.core.BlockPos;
 import net.minecraft.server.level.ServerLevel;
