@@ -1,6 +1,6 @@
-package com.natamus.conduitspreventdrowned;
+package com.serilum.conduitspreventdrowned;
 
-import com.natamus.conduitspreventdrowned.config.ConfigHandler;
+import com.serilum.conduitspreventdrowned.config.ConfigHandler;
 
 public class ModCommon {
 
