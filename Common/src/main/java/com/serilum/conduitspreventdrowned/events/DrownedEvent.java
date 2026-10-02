@@ -1,6 +1,6 @@
-package com.natamus.conduitspreventdrowned.events;
+package com.serilum.conduitspreventdrowned.events;
 
-import com.natamus.conduitspreventdrowned.config.ConfigHandler;
+import com.serilum.conduitspreventdrowned.config.ConfigHandler;
 import net.minecraft.core.BlockPos;
 import net.minecraft.server.level.ServerLevel;
 import net.minecraft.world.effect.MobEffectInstance;
